@@ -1,0 +1,6 @@
+{
+  "name": "PyAuth Sentinel: Flask Auth & Security Record Tracker",
+  "description": "Production-ready Python Flask & SQLite3 authentication system with Werkzeug cryptographic hashing, real-time login audit trails, security metrics, and live CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
